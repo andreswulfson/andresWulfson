@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/andreswulfson/andresWulfson/static/css/main.2524dfa1.css",
-    "main.js": "/andreswulfson/andresWulfson/static/js/main.be9578a5.js",
-    "static/media/profile.png": "/andreswulfson/andresWulfson/static/media/profile.79a14f0f6e3b03df640b.png",
-    "static/media/logo-upwork.png": "/andreswulfson/andresWulfson/static/media/logo-upwork.f3a1584b2f5120523e20.png",
-    "static/media/avatar.png": "/andreswulfson/andresWulfson/static/media/avatar.ff60c308eec83551dccf.png",
-    "static/media/logo-payoneer.png": "/andreswulfson/andresWulfson/static/media/logo-payoneer.44ad92a1f4d80cb6016a.png",
-    "static/media/logo-trafilea.png": "/andreswulfson/andresWulfson/static/media/logo-trafilea.2444400a035c7fe822ba.png",
-    "static/media/logo-ae.png": "/andreswulfson/andresWulfson/static/media/logo-ae.0289cb5e5f11c296296f.png",
-    "static/media/logo-azumo.webp": "/andreswulfson/andresWulfson/static/media/logo-azumo.ed332d782e5ae14f899c.webp",
-    "index.html": "/andreswulfson/andresWulfson/index.html",
-    "static/media/logo-ln.svg": "/andreswulfson/andresWulfson/static/media/logo-ln.e694ec492baacd85b11a0e247a1193d1.svg",
-    "main.2524dfa1.css.map": "/andreswulfson/andresWulfson/static/css/main.2524dfa1.css.map",
-    "main.be9578a5.js.map": "/andreswulfson/andresWulfson/static/js/main.be9578a5.js.map"
+    "main.css": "/andresWulfson/static/css/main.2524dfa1.css",
+    "main.js": "/andresWulfson/static/js/main.a61bd37d.js",
+    "static/media/profile.png": "/andresWulfson/static/media/profile.79a14f0f6e3b03df640b.png",
+    "static/media/logo-upwork.png": "/andresWulfson/static/media/logo-upwork.f3a1584b2f5120523e20.png",
+    "static/media/avatar.png": "/andresWulfson/static/media/avatar.ff60c308eec83551dccf.png",
+    "static/media/logo-payoneer.png": "/andresWulfson/static/media/logo-payoneer.44ad92a1f4d80cb6016a.png",
+    "static/media/logo-trafilea.png": "/andresWulfson/static/media/logo-trafilea.2444400a035c7fe822ba.png",
+    "static/media/logo-ae.png": "/andresWulfson/static/media/logo-ae.0289cb5e5f11c296296f.png",
+    "static/media/logo-azumo.webp": "/andresWulfson/static/media/logo-azumo.ed332d782e5ae14f899c.webp",
+    "index.html": "/andresWulfson/index.html",
+    "static/media/logo-ln.svg": "/andresWulfson/static/media/logo-ln.e694ec492baacd85b11a0e247a1193d1.svg",
+    "main.2524dfa1.css.map": "/andresWulfson/static/css/main.2524dfa1.css.map",
+    "main.a61bd37d.js.map": "/andresWulfson/static/js/main.a61bd37d.js.map"
   },
   "entrypoints": [
     "static/css/main.2524dfa1.css",
-    "static/js/main.be9578a5.js"
+    "static/js/main.a61bd37d.js"
   ]
 }
